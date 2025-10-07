@@ -47,6 +47,11 @@ Developed by: RegisterNumber:*/
 **Timing Diagram**
 
 **Result:**
+Logic diagram
+<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/901a24d8-c5d7-4ad9-ba2d-e140e0debd9c" />
+Clock Pulse
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/d3d0cf22-9625-41ec-93a8-f9e10579cf7a" />
+
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
